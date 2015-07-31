@@ -1,0 +1,31 @@
+{
+    "name": "mehulkaklotar/demo_composer",
+    "description": "Wordpress Plugin with composer",
+    "keywords": ["wordpress", "plugin", "composer"],
+    "homepage": "http://kaklo.me",
+    "version": "1.0.0",
+    "license": "GPL-2.0+",
+    "authors": [{
+        "name": "Mehul",
+        "email": "mehul.kaklotar@gmail.com",
+        "homepage": "http://kaklo.me"
+    }],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "type": "wordpress-plugin",
+    "support": {
+		"issues": "https://github.com/mehulkaklotar/demo_composer",
+		"forum": "https://github.com/mehulkaklotar/demo_composer",
+		"wiki": "https://github.com/mehulkaklotar/demo_composer",
+		"source": "https://github.com/mehulkaklotar/demo_composer"
+	},
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/mehulkaklotar/demo_composer.git"
+    }],
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": "^1.0"
+    }
+}
