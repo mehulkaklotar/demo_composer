@@ -10,7 +10,7 @@
         "email": "mehul.kaklotar@gmail.com",
         "homepage": "http://kaklo.me"
     }],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "1.0",
     "prefer-stable": true,
     "type": "wordpress-plugin",
     "support": {
