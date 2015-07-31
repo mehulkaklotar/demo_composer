@@ -3,14 +3,14 @@
     "description": "Wordpress Plugin with composer",
     "keywords": ["wordpress", "plugin", "composer"],
     "homepage": "http://kaklo.me",
-    "version": "1.0.0",
+    "version": "1.0",
     "license": "GPL-2.0+",
     "authors": [{
         "name": "Mehul",
         "email": "mehul.kaklotar@gmail.com",
         "homepage": "http://kaklo.me"
     }],
-    "minimum-stability": "1.0",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "type": "wordpress-plugin",
     "support": {
